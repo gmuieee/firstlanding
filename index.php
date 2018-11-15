@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Ismail Tasdelen</title>
+  <title>GMU IEEE</title>
   <meta content="security researcher, security consultant, bug bounty, bug bounty hunter, web security, penetration testing, cyber security, information security, siber güvenlik, bilgi güvenliği" name="keywords">
   <meta content="Security Consultant" name="description">
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
@@ -20,8 +20,8 @@
   <div id="header" class="home">
     <div class="container">	
       <div class="header-content">
-        <h1>I'm <span class="typed"></span></h1>
-        <p>security researcher, bug bounty hunter, developer</p>
+        <h1>We are <span class="typed"></span></h1>
+        <p>GMU IEEE, GMU ACM, Engineers</p>
         <ul class="list-unstyled list-social">
 		  <li><a href="https://github.com/ismailtasdelen" target="_blank"><i class="ion-social-github"></i></a></li>
           <li><a href="https://www.linkedin.com/in/ismailtasdelen/" target="_blank"><i class="ion-social-linkedin" target="_blank"></i></a></li>
